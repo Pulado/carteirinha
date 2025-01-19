@@ -1,7 +1,7 @@
 // src/App.jsx
 import React from "react";
 import "./assets/App.css";
-import profileImage from "./assets/profile.jpeg"; // Substitua pela imagem real
+import profileImage from "./assets/profile.png"; // Substitua pela imagem real
 import logoEscola from "./assets/logoescola.svg"; // Importe o logotipo da escola
 import facebookIcon from "./assets/facebook_branco.svg"; // Ícone do Facebook
 import instagramIcon from "./assets/instagram_branco.svg"; // Ícone do Instagram
